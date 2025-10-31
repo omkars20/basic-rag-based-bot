@@ -3,3 +3,4 @@ venv/
 .pdf/
 
 vector_db/
+.env
