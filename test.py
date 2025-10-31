@@ -1,4 +1,0 @@
-"""
-def api route():
-    pass
-"""
